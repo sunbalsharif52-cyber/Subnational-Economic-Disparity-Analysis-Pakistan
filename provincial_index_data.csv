@@ -1,0 +1,16 @@
+Anova: Single Factor,,,,,,
+,,,,,,
+SUMMARY,,,,,,
+Groups,Count,Sum,Average,Variance,,
+Punjab,42,21.25,0.505952381,0.013512485,,
+Sindh,30,14.56,0.485333333,0.01403954,,
+KPK,36,17.74,0.492777778,0.013740635,,
+Balochistan,36,17.7,0.491666667,0.012945714,,
+,,,,,,
+,,,,,,
+ANOVA,,,,,,
+Source of Variation,SS,df,MS,F,P-value,F crit
+Between Groups,0.008412956,3,0.002804319,0.20715946,0.891306481,2.669256364
+Within Groups,1.895180794,140,0.013537006,,,
+,,,,,,
+Total,1.90359375,143,,,,
